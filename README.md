@@ -62,7 +62,7 @@ outside its segment. CI runs it on every push; a `vX.Y.Z` tag publishes a releas
 Part of a small family of DOS size-coding demos, each in its own repository:
 [uber8-dos-demo](https://github.com/djayuffe/uber8-dos-demo) (5 bytes),
 [uber128-dos-demo](https://github.com/djayuffe/uber128-dos-demo) (77 bytes),
-[uber256-dos-demo](https://github.com/djayuffe/uber256-dos-demo) (171 bytes),
+[uber256-rotozoomer](https://github.com/djayuffe/uber256-rotozoomer) (171 bytes),
 [uber256-dos-intro](https://github.com/djayuffe/uber256-dos-intro) (131 bytes), and the big one,
 [uber40k-dos-demo](https://github.com/djayuffe/uber40k-dos-demo) (a 20-scene show with a 3D engine and
 Sound Blaster music). The index is [uber-tiny-demos](https://github.com/djayuffe/uber-tiny-demos).

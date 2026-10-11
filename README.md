@@ -6,6 +6,10 @@
 
 ![UBER128.COM running in DOSBox](screenshot.jpg)
 
+![UBER128 in motion](docs/uber128.gif)
+
+*Rendered frame by frame from the real binary running in an emulated CPU (Unicorn), with a model of the display hardware: no screen recording. Checked against real DOSBox screenshots.*
+
 77 bytes (class 128) of x86 assembly: a dense psychedelic palette, and concentric rings whose colours roll outwards forever.
 
 | | |
